@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
+<sub>📧 tomasgomezposada@gmail.com</sub>
+
 </div>
 
 ---
@@ -83,8 +85,12 @@ Plataforma de gestión para aplicaciones de entrega y venta de alimentos, desarr
 ## Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TomasCGH&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasCGH&layout=compact&hide_border=true" />
+  <a href="https://github.com/TomasCGH">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=TomasCGH&show_icons=true&theme=default&hide_border=true" />
+  </a>
+  <a href="https://github.com/TomasCGH">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasCGH&layout=compact&hide_border=true" />
+  </a>
 </p>
 
 <div align="center">
