@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Tomás 👋
 
-<!--
-**TomasCGH/TomasCGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack apasionado por crear soluciones de software de calidad.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologías
+- **Backend**: Java, Spring Boot
+- **Frontend**: TypeScript, JavaScript, React
+- **Bases de Datos**: SQL
+- **Herramientas**: Git, Maven, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos Destacados
+- [Proyecto Victus](https://github.com/TomasCGH/Proyecto_victus) - Aplicación Full Stack
+- [Front-end Software 1](https://github.com/TomasCGH/Front-end-sofware-1) - Interfaz moderna
+
+## 🎯 Interesado en
+- Desarrollo de aplicaciones escalables
+- Buenas prácticas de código
+- Contribuciones a proyectos open source
+
+## 📧 Contacto
+- Email: tu@email.com
+- LinkedIn: tu-perfil
