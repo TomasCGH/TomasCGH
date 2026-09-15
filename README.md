@@ -1,22 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Tomás%20CGH&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E75B6&height=180&section=header&text=Hola,%20soy%20Tomás&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+
+<!-- 🦦 GIF de la nutria saludando: reemplaza el src de abajo por el link directo (.gif) que copies desde Giphy/Tenor -->
+<img src="COLOCA_AQUI_EL_LINK_DIRECTO_DEL_GIF_DE_LA_NUTRIA" width="120" alt="Nutria saludando" />
+
+### Estudiante de Ingeniería de Sistemas · Ciencia de Datos & Desarrollo de Software
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=18&pause=1200&color=1F4E79&center=true&vCenter=true&width=560&lines=Me+interesa+la+ciencia+de+datos+y+el+machine+learning;Construyo+backend+con+Java+y+Spring+Boot;Tambi%C3%A9n+me+muevo+en+frontend+con+React+y+Angular;Ahora+mismo+reforzando+redes+y+ciberseguridad+(CCNA)" />
 
 <br>
 
-# 💻 Full Stack Developer | Java • TypeScript • Spring Boot
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=20&pause=1000&color=667eea&center=true&vCenter=true&width=500&lines=Apasionado+por+código+limpio;Especializado+en+Backend;Creador+de+soluciones+escalables" />
-
----
-
-<a href="https://github.com/TomasCGH" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/tu-perfil" target="_blank">
+<a href="https://www.linkedin.com/in/tomas-cifuentes-posada-8a154a2b5" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:tu@email.com" target="_blank">
+<a href="mailto:tomasgomezposada@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -24,62 +22,45 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-```python
-developer = {
-    "name": "Tomás",
-    "role": "Full Stack Developer",
-    "focus": ["Backend Architecture", "Clean Code", "Microservices"],
-    "currently_learning": ["Kubernetes", "AWS", "Advanced Design Patterns"],
-    "passion": "Crear soluciones de software escalable y mantenible"
-}
-```
+Voy en octavo semestre de Ingeniería de Sistemas y me metí de lleno en el mundo de los datos: análisis predictivo, machine learning y, en general, todo lo que tenga que ver con sacarle sentido a la información. En paralelo he trabajado bastante en desarrollo backend y frontend, así que también me muevo cómodo construyendo aplicaciones completas de principio a fin.
 
-### Highlights 🎯
-- 🔧 **Backend Robusto**: Spring Boot, Java, Arquitectura Limpia
-- 🎨 **Frontend Moderno**: TypeScript, React, Interfaces intuitivas
-- 🗄️ **Bases de Datos**: SQL, Diseño relacional normalizado
-- 📦 **DevOps**: Docker, Git, Buenas prácticas de CI/CD
-- ✍️ **Código de Calidad**: SOLID, Clean Code, Testing
+Ahora mismo estoy reforzando la parte de redes y ciberseguridad con la certificación CCNA de Cisco, porque me gusta entender el stack completo y no quedarme solo con la parte de software.
+
+- 🔭 Trabajando en mi proyecto de grado: predicción de caudales para generación hidroeléctrica usando deep learning (LSTM/GRU)
+- 📊 Me gusta trabajar con Python, pandas y NumPy para análisis de datos
+- 🌱 Aprendiendo redes y ciberseguridad (CCNA en curso)
+- 💬 Escríbeme si quieres hablar de datos, backend o proyectos de universidad
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,typescript,javascript,react,nodejs,mysql,postgres,docker,git,maven,intellij&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,javascript,react,angular,postgres,mongodb,git,azure&perline=10" />
 </p>
 
 ---
 
-## 📌 Proyectos Destacados
+## Proyectos destacados
 
 | Proyecto | Descripción | Stack |
-|----------|-----------|-------|
-| **Proyecto Victus** | Aplicación Full Stack con arquitectura escalable | Java, Spring Boot, React, MySQL |
-| **Message Service** | Servicio de mensajería con arquitectura de microservicios | Java, Spring Boot, PostgreSQL |
-| **Backend Services** | APIs REST con principios SOLID y Clean Code | Java, Spring Framework |
+|---|---|---|
+| [**Victus Residencias**](COLOCA_AQUI_EL_LINK_DEL_REPO) | Plataforma para gestión de conjuntos residenciales, con arquitectura hexagonal y microservicios desplegados en Azure. | Java · Spring Boot · PostgreSQL · Azure |
+| [**AttoApp**](COLOCA_AQUI_EL_LINK_DEL_REPO) | Aplicación para restaurantes, orientada a la gestión de pedidos y servicio. | COMPLETA_EL_STACK_USADO |
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TomasCGH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=27" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TomasCGH&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TomasCGH&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasCGH&layout=compact&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasCGH&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=footer" />
 
 <div align="center">
 
-### "El código limpio es un reflejo de la mente clara" 💡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E75B6&height=100&section=footer" />
 
 </div>
