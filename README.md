@@ -19,31 +19,37 @@
 
 ---
 
-## Sobre mí
+## 🚀 Sobre mí
 
-Voy en octavo semestre de Ingeniería de Sistemas y me metí de lleno en el mundo de los datos: análisis predictivo, machine learning y, en general, todo lo que tenga que ver con sacarle sentido a la información. En paralelo he trabajado bastante en desarrollo backend y frontend, así que también me muevo cómodo construyendo aplicaciones completas de principio a fin.
+<table>
+<tr>
+<td valign="top" width="65%">
 
-Ahora mismo estoy reforzando la parte de redes y ciberseguridad con la certificación CCNA de Cisco, porque me gusta entender el stack completo y no quedarme solo con la parte de software.
+- 🎓 Estudiante de **Ingeniería de Sistemas** (8° semestre) en la Universidad Católica de Oriente
+- 💻 **Desarrollador Backend** enfocado en Java, Spring Boot, Python y arquitectura de microservicios
+- 🤖 Experiencia construyendo proyectos reales:
+  - Plataforma de gestión residencial con microservicios y arquitectura hexagonal (**Victus Residencias**)
+  - Sistema de pedidos con microservicios y mensajería asíncrona vía RabbitMQ (**EatUpApi**)
+  - Modelos de machine learning para clasificación y predicción con Python
+- 📊 Enfocado en ciencia de datos: mi proyecto de grado usa deep learning (LSTM/GRU) para predicción de caudales
+- 🌱 Actualmente aprendiendo: **redes y ciberseguridad (CCNA)**
+- 📍 El Retiro / Oriente Antioqueño, Colombia
 
-- 🔭 Trabajando en mi proyecto de grado: predicción de caudales para generación hidroeléctrica usando deep learning (LSTM/GRU)
-- 📊 Me gusta trabajar con Python, pandas y NumPy para análisis de datos
-- 🌱 Aprendiendo redes y ciberseguridad (CCNA en curso)
-- 💬 Escríbeme si quieres hablar de datos, backend o proyectos de universidad
+</td>
+<td valign="top" width="35%" align="center">
 
-<!--
-🎬 Animación: coloca el archivo tux-linux-tux.gif en la raíz de este mismo repo (TomasCGH/TomasCGH)
-   para que la ruta relativa de abajo funcione.
--->
-<div align="center">
-  <img src="./tux-linux-tux.gif" width="450" alt="Animación" />
-</div>
+<img src="./tux-linux-tux.gif" width="150" alt="Tux animado" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,javascript,react,angular,postgres,mongodb,git,azure&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,postgres,mongodb,spring,maven,angular,react,git,azure,githubactions&perline=7" />
 </p>
 
 ---
