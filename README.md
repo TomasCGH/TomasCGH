@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/tomas-cifuentes-posada-8a154a2b5" target="_blank">
+<a href="https://www.linkedin.com/in/tomas-gomez-cifuentes-8a154a2b5/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:tomasgomezposada@gmail.com">
@@ -36,9 +36,9 @@
 - 📍 El Retiro / Oriente Antioqueño, Colombia
 
 </td>
-<td valign="top" width="35%" align="center">
+<td valign="middle" width="35%" align="center">
 
-<img src="./tux-linux-tux.gif" width="150" alt="Tux animado" />
+<img src="./tux-linux-tux.gif" width="190" alt="Tux animado" />
 
 </td>
 </tr>
